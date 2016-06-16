@@ -1,0 +1,66 @@
+body{
+	overflow-x: hidden;
+}
+div{
+	background-color: #09001e;
+}
+.lnk{
+	background-color: #09001e;
+	text-decoration: none;
+	border-style: none;
+	padding: 10px;
+	font-family: roboto;
+	font-size: 20px;
+	margin-top: 10%;
+	width: 60%; 
+}
+.works{
+	margin-top: 5em;
+	border-top: 5px solid white;
+	background-color: #09001e;
+}
+.linktext{
+	padding-top: 1em;
+}
+.con{
+	color: #ffa200;
+}
+.con:hover{
+	background-color: #ffa200;
+	color: #000000;
+}
+.ghub{
+	color:#ffffff;
+}
+.ghub:hover{
+	background-color: #fff;
+	color: #181616;
+}
+.lin{
+	color: #0274b3;
+}
+.lin:hover{
+	background-color: #0274b3;
+	color: #ffffff;
+}
+.top-fold{
+	background-color: #09001e;
+	padding: 10% 0 20%;
+	height: 100vh;
+}
+.mid{
+	padding-top:15%;
+	color: white;
+	font-family: roboto light;
+	background-color: #09001e;
+}
+.navlinks{
+	position: fixed;
+	width: 100%;
+}
+.btn{
+	background-color: black;
+}
+.navlinks>li>a:hover{
+	background-color: #ffa200;
+}
